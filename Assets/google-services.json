@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433095679188",
+    "project_id": "gomoku---nguyen-hoang-hien",
+    "storage_bucket": "gomoku---nguyen-hoang-hien.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433095679188:android:65832206bcaf7fb6832f41",
+        "android_client_info": {
+          "package_name": "nguyenhoanghien.mocademy.gomoku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW6fk8dzpeWExrENYL4skuxagY6DWuIf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
